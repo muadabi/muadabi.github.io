@@ -23,3 +23,9 @@ ls -la
 ## git
 
 
+<details>
+<summary>Click to expand</summary>
+
+whatever
+
+</details>
