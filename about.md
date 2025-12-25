@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi,
+
+I'm Muad`Dib, just another tech enthusiast.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have interest in writing post about:
+
+- Automation (Python/Kubernetes/Terraform/Ansible)
+- LLMs
+- Electronics
+- Astronomy
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[muadabi@duck.com](mailto:muadabi@duck.com)
